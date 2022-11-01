@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Coca Cola",
+    "precio": 100,
+    "foto": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola-bottle.png",
+    "id": 1
+  },
+  {
+    "nombre": "Pepsi",
+    "precio": 234,
+    "foto": "https://www.coca-cola.com.ar/content/dam/journey/ar/es/private/brands/coca-cola/coca-cola-bottle.png",
+    "id": 2
+  }
+]
